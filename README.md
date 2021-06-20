@@ -1,8 +1,8 @@
-# Pepper Finance UIkit
+# PSRS Finance UIkit
 
 [![Version](https://img.shields.io/npm/v/@pancakeswap-libs/uikit)](https://www.npmjs.com/package/@pancakeswap-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@pancakeswap-libs/uikit)](https://www.npmjs.com/package/@pancakeswap-libs/uikit)
 
-Pepper Finance UIkit is a set of React components and hooks used to build pages on Pepper Finance's apps. It also contains a theme file for dark and light mode.
+PSRS Finance UIkit is a set of React components and hooks used to build pages on Pepper Finance's apps. It also contains a theme file for dark and light mode.
 
 ## Install
 
@@ -12,7 +12,7 @@ Pepper Finance UIkit is a set of React components and hooks used to build pages 
 
 ### Theme
 
-Before using Pepper Finance UIkit, you need to provide the theme file to styled-component.
+Before using PSRS Finance UIkit, you need to provide the theme file to styled-component.
 
 ```
 import { ThemeProvider } from 'styled-components'

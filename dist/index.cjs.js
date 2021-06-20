@@ -2144,27 +2144,14 @@ var socials = [
         items: [
       {
         label: "English",
-        href: "https://t.me/peprfinance",
+        href: "https://t.me/PSRSOFFICIALCHAT",
       },
-      {
-        label: "Portuguese",
-        href: "https://t.me/Peps_BR",
-      },
-      {
-        label: "PEPS Community",
-        href: "https://t.me/pepsofficial",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/ProjectPEPS",
-      },
-      
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/projectpeps",
+        href: "https://twitter.com/PsrsToken",
     },
 ];
 var MENU_HEIGHT = 64;
