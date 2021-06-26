@@ -114,7 +114,7 @@ export const socials = [
     label: "Telegram",
     icon: "TelegramIcon",
     items: [
-      {
+     {
         label: "English",
         href: "http://telegram.peps.today",
       },
@@ -129,18 +129,6 @@ export const socials = [
       {
         label: "Português",
         href: "https://t.me/Peps_BR",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/joinchat/WS89sCVlnjkEr8AI",
-      },
-      {
-        label: "India",
-        href: "https://t.me/joinchat/TV1zcUIS1ZPpjluG",
-      },
-      {
-        label: "Africa",
-        href: "https://t.me/joinchat/_acKO_mr0a43Mzcx",
       },
       
       // {
