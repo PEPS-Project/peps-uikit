@@ -134,14 +134,6 @@ export const socials = [
         label: "Italiano",
         href: "https://t.me/joinchat/WS89sCVlnjkEr8AI",
       },
-      {
-        label: "India",
-        href: "https://t.me/joinchat/TV1zcUIS1ZPpjluG",
-      },
-      {
-        label: "Africa",
-        href: "https://t.me/joinchat/_acKO_mr0a43Mzcx",
-      },
       
       // {
       //   label: "Bahasa Indonesia",
